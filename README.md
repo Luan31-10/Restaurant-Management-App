@@ -1,4 +1,4 @@
- Ứng dụng Quản lý Nhà hàng Đa nền tảng (Flutter)
+Ứng dụng Quản lý Nhà hàng Đa nền tảng (Flutter)
 
 Một ứng dụng di động toàn diện được thiết kế để tối ưu hóa quy trình vận hành nhà hàng, hỗ trợ nhân viên phục vụ quản lý bàn và gọi món một cách nhanh chóng, chính xác. 
 
@@ -14,11 +14,11 @@ Dự án được xây dựng bằng **Flutter**, đảm bảo trải nghiệm m
 
  Công nghệ sử dụng
 
-* Nền tảng (Framework):** Flutter
-* Ngôn ngữ lập trình:** Dart
-* Quản lý trạng thái (State Management):** Provider / GetX *(Thay bằng thư viện bạn đã dùng)*
-* Cơ sở dữ liệu (Database):** SQLite / Shared Preferences
-* Thiết kế giao diện:** Material Design
+* Nền tảng (Framework): Flutter
+* Ngôn ngữ lập trình: Dart
+* Quản lý trạng thái (State Management): Provider
+* Cơ sở dữ liệu (Database): Mysql 
+* Thiết kế giao diện: Material Design
 
  Hướng dẫn cài đặt và chạy ứng dụng
 
